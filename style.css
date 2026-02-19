@@ -321,6 +321,12 @@ width: 300px;
 }
 
 .m{
+    background-color: rgb(111, 0, 255); 
+    color: palegreen; 
+    font-weight: bold; 
+    width: 100px; 
+    height: 40px; 
+    border-radius: 10px;
     transition: 1s;
 }
 
@@ -328,5 +334,6 @@ width: 300px;
     background-color:palegreen;
     color: rgb(115, 0, 255);
 }
+
 
 
