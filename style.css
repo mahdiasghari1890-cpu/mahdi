@@ -85,6 +85,10 @@ nav ul li a:hover{color:#0d6efd;}
 .card:hover .card-overlay{transform:translateY(0);}
 .card-overlay h4{margin-bottom:5px;font-size:1.2rem;}
 .card-overlay p{font-size:.9rem;color:#ccc;}
+.A{background-color: rgb(115, 0, 255); color: palegreen; font-weight: bold; width: 100px; height: 40px; border-radius: 10px;transition: 1s;}
+.B{background-color: rgb(115, 0, 255); color: palegreen; font-weight: bold; width: 100px; height: 40px; border-radius: 10px;transition: 1s;}
+.A:hover{color: rgb(115, 0, 255);background-color: palegreen;}
+.B:hover{color: rgb(115, 0, 255);background-color: palegreen;}
 
 /* ======= وبلاگ ======= */
 #blog .blog-card{background:rgba(255,255,255,.08);backdrop-filter:blur(15px);border-radius:20px;padding:15px;transition:.3s;position:relative;overflow:hidden;}
@@ -319,36 +323,4 @@ width: 300px;
 }
 
 }
-
-.A{
-    background-color: rgb(111, 0, 255); 
-    color: palegreen; 
-    font-weight: bold; 
-    width: 100px; 
-    height: 40px; 
-    border-radius: 10px;
-    transition: 1s;
-}
-
-.A:hover{
-    background-color:palegreen;
-    color: rgb(115, 0, 255);
-}
-
-.B{
-    background-color: rgb(111, 0, 255); 
-    color: palegreen; 
-    font-weight: bold; 
-    width: 100px; 
-    height: 40px; 
-    border-radius: 10px;
-    transition: 1s;
-}
-
-.B:hover{
-    background-color:palegreen;
-    color: rgb(115, 0, 255);
-}
-
-
 
