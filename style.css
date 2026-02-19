@@ -320,7 +320,7 @@ width: 300px;
 
 }
 
-.m{
+.mm{
     background-color: rgb(111, 0, 255); 
     color: palegreen; 
     font-weight: bold; 
@@ -330,10 +330,11 @@ width: 300px;
     transition: 1s;
 }
 
-.m:hover{
+.mm:hover{
     background-color:palegreen;
     color: rgb(115, 0, 255);
 }
+
 
 
 
