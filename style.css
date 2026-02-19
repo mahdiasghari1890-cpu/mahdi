@@ -320,7 +320,7 @@ width: 300px;
 
 }
 
-.mm{
+.A{
     background-color: rgb(111, 0, 255); 
     color: palegreen; 
     font-weight: bold; 
@@ -330,11 +330,25 @@ width: 300px;
     transition: 1s;
 }
 
-.mm:hover{
+.A:hover{
     background-color:palegreen;
     color: rgb(115, 0, 255);
 }
 
+.B{
+    background-color: rgb(111, 0, 255); 
+    color: palegreen; 
+    font-weight: bold; 
+    width: 100px; 
+    height: 40px; 
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.B:hover{
+    background-color:palegreen;
+    color: rgb(115, 0, 255);
+}
 
 
 
