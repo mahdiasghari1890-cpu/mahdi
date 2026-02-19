@@ -269,6 +269,7 @@ box-shadow: 0px 0px 5px 5px slateblue;
 }
 
 .contact-form{
+    text-align:center;
     border-radius: 10px;
     height: 610px;
     border: 3px solid rgb(115, 0, 255);
@@ -327,3 +328,4 @@ width: 300px;
     background-color:palegreen;
     color: rgb(115, 0, 255);
 }
+
