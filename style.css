@@ -123,7 +123,8 @@ nav ul li a:hover{color:#0d6efd;}
 }
 
 .button2:hover{
-    color: palegreen;
+    color: rgb(115, 0, 255);
+    background-color:palegreen;
     box-shadow: 0px 0px 5px 5px slateblue;
 }
 
@@ -317,3 +318,11 @@ width: 300px;
 }
 
 }
+
+.m{
+    transition: 1s;
+}
+
+.m:hover{
+    background-color:palegreen;
+    color: rgb(115, 0, 255);
